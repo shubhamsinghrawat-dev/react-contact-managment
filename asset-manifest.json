@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-contact-managment/static/css/main.0ee7594b.css",
+    "main.js": "/react-contact-managment/static/js/main.cd4bad05.js",
+    "index.html": "/react-contact-managment/index.html",
+    "main.0ee7594b.css.map": "/react-contact-managment/static/css/main.0ee7594b.css.map",
+    "main.cd4bad05.js.map": "/react-contact-managment/static/js/main.cd4bad05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee7594b.css",
+    "static/js/main.cd4bad05.js"
+  ]
+}
